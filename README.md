@@ -111,18 +111,8 @@ squared_array = my_array ** 2  # NumPy does it all at once!
 ```
 ## Getting started with numpy:
 
+each file represent an exercice with my own solution
 
-
-
-
-3.) Create a null vector of size 10
-9:29 - 
-15:19 - 
-18:51 - 
-20:03 - 
-21:48 - 
-23:20 - 
-24:41 - 
 26:24 - 11.) Create a 3x3 identity matrix
 29:35 - 12.) Create a 3x3x3 array with random values.
 30:48 - 13.) Create a 10x10 array with random values and find min/max values
