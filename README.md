@@ -113,11 +113,11 @@ squared_array = my_array ** 2  # NumPy does it all at once!
 
 each file represent an exercice with my own solution
 
-26:24 - 11.) Create a 3x3 identity matrix
-29:35 - 12.) Create a 3x3x3 array with random values.
-30:48 - 13.) Create a 10x10 array with random values and find min/max values
-33:17 - 14.) Create a random vector of size 30 and find the mean value
-34:57 - 15.) Create a 2d array with 1 on the border and 0 inside
+26:24 - 11.)
+29:35 - 
+30:48 - 
+33:17 - 
+34:57 - 
 40:19 - 16.) How to add a border (filled with 0’s around an existing array? (np.pad)
 43:41 - 17.) Evaluate some np.nan expressions
 48:32 - 18.) Create a 5x5 matrix with values 1,2,3,4 just below the diagonal
