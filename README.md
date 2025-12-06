@@ -88,7 +88,7 @@ print(a)
 * All elements are of the same type (e.g., all int32 or float64).
 * No extra overhead for pointers or type info.
 * All elements must be of the same type .
-![alt text](image.png)
+![alt text](images/image.png)
 
 ## What Does "Vectorized" Mean??
 `Vectorization` means applying an operation to entire arrays at once, without writing loops.
